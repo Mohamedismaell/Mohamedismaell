@@ -1,93 +1,98 @@
-# 💫 About Me
+<!-- HEADER CARD -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=800&color=4F9CF9&center=true&vCenter=true&width=600&lines=Flutter+Developer;Computer+Science+Student;Building+Mobile+Apps" />
+</p>
 
-I'm a **4th-year Computer Science student** and a **Flutter Developer** with around **6 months of hands-on experience** building mobile applications.
-
-I enjoy learning new technologies, solving problems, and continuously improving my coding skills through practical projects.  
-My main focus is on building clean UIs, writing maintainable code, and understanding how real-world apps are structured.
-
----
-
-## 🧑‍💻 What I Do
-
-- 📱 Build cross-platform mobile apps using Flutter & Dart  
-- 🎨 Focus on clean UI and smooth user experience  
-- 🧠 Practice problem-solving and logical thinking  
-- 🚀 Learn by building real projects  
+<p align="center">
+  <b>Flutter Developer</b> · <b>4th Year Computer Science Student</b> <br/>
+  📍 Egypt
+</p>
 
 ---
 
-## 🛠 Tech Stack & Skills
+## 🧑‍💻 About Me
 
-### Mobile Development
-- Flutter  
-- Dart  
-- Material Design  
-- Responsive UI  
-
-### Development Concepts
-- Stateful & Stateless Widgets  
-- Basic State Management  
-- Clean UI Structure  
-- Reusable Components  
-
-### Tools & Platforms
-- Git & GitHub  
-- Firebase (basic)  
-- REST APIs (basic)  
-- Android Studio / VS Code  
+- 📱 Flutter developer with **6+ months of hands-on experience**
+- 🎓 4th year Computer Science student
+- 🎨 Interested in modern UI / UX & clean design
+- 🧠 Learn by building real projects
+- 🚀 Goal: become a professional Flutter developer
 
 ---
 
-## 🌐 Socials
+## 🛠 Skills & Tech Stack
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/3smail)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mohamedmeadia)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ismail-dev/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamed.ismael.dev@outlook.com)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,androidstudio&theme=dark" />
+</p>
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/State_Management-Basic-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST_API-Basic-00BCD4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Responsive_UI-Design-purple?style=for-the-badge"/>
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 📱 Featured Projects
 
 ### 🧠 Quiz App (Flutter)
-A multiple-choice quiz application with score tracking and result summary.
-
-- Dynamic questions  
-- Answer selection  
-- Result screen with detailed feedback  
-- Clean and simple UI  
+- Multiple-choice quiz
+- Score tracking & results summary
+- Clean UI with gradients  
 
 🔗 https://github.com/Mohamedismaell/Quiz_app_flutter
 
 ---
 
 ### 📍 Favorite Places App
-A simple app to save and manage favorite places with a modern UI.
-
-- Add and view places  
-- List & detail screens  
-- Simple and clean design  
+- Save & view favorite locations
+- List & detail screens
+- Simple modern design  
 
 🔗 https://github.com/Mohamedismaell/Favorite_Places_App
 
 ---
 
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-ismail-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mohamed.ismael.dev@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/3smail">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Mohamedismaell&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Mohamedismaell&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedismaell&theme=dark&hide_border=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedismaell&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Mohamedismaell&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedismaell&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## ✍️ Random Dev Quote
+## ✍️ Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Mohamedismaell&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Mohamedismaell&icon=0&color=12"/>
+</p>
 
-⭐ Feel free to explore my repositories and follow my learning journey.
+⭐ Thanks for visiting my profile!
