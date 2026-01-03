@@ -23,14 +23,32 @@
 ## 🛠 Skills & Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,androidstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,vscode,androidstudio,python,cpp&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/State_Management-Basic-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/REST_API-Basic-00BCD4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Responsive_UI-Design-purple?style=for-the-badge"/>
+  <!-- Flutter Core -->
+  <img src="https://img.shields.io/badge/Flutter_UI-Advanced-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-Intermediate-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+
+  <!-- Architecture & State -->
+  <img src="https://img.shields.io/badge/State_Management-Intermediate-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Reusable_Widgets-Advanced-success?style=for-the-badge"/>
+
+  <!-- Backend & Data -->
+  <img src="https://img.shields.io/badge/REST_APIs-Intermediate-00BCD4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Firebase-Intermediate-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Supabase-Beginner-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+
+  <!-- UI & UX -->
+  <img src="https://img.shields.io/badge/Responsive_UI-Advanced-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Material_Design-Advanced-757575?style=for-the-badge&logo=material-design&logoColor=white"/>
+
+  <!-- Programming -->
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-Beginner-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
+
 
 ## 🌐 Connect With Me
 
