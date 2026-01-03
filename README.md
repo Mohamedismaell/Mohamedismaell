@@ -12,11 +12,11 @@
 
 ## 🧑‍💻 About Me
 
-- 📱 Flutter developer with **6+ months of hands-on experience**
-- 🎓 4th year Computer Science student
-- 🎨 Interested in modern UI / UX & clean design
-- 🧠 Learn by building real projects
-- 🚀 Goal: become a professional Flutter developer
+-  Flutter developer with **1 year of hands-on experience**
+-  4th year Computer Science student
+-  Interested in modern UI / UX & clean design
+-  Learn by building real projects
+-  Goal: become a professional Flutter developer
 
 ---
 
@@ -31,28 +31,6 @@
   <img src="https://img.shields.io/badge/REST_API-Basic-00BCD4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Responsive_UI-Design-purple?style=for-the-badge"/>
 </p>
-
----
-
-## 📱 Featured Projects
-
-### 🧠 Quiz App (Flutter)
-- Multiple-choice quiz
-- Score tracking & results summary
-- Clean UI with gradients  
-
-🔗 https://github.com/Mohamedismaell/Quiz_app_flutter
-
----
-
-### 📍 Favorite Places App
-- Save & view favorite locations
-- List & detail screens
-- Simple modern design  
-
-🔗 https://github.com/Mohamedismaell/Favorite_Places_App
-
----
 
 ## 🌐 Connect With Me
 
