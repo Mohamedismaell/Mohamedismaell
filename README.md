@@ -10,7 +10,9 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me  <a href="https://mohamedismaell.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 
 -  Flutter developer with **1 year of hands-on experience**
 -  4th year Computer Science student
@@ -50,28 +52,10 @@
 </p>
 
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-ismail-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mohamed.ismael.dev@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://discord.gg/3smail">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://mohamedismaell.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/mohamed-ismail-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
