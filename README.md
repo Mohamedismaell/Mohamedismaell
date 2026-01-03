@@ -71,7 +71,9 @@
 
 ## ✍️ Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cache=1"/>
+</p>
 
 ---
 
@@ -80,18 +82,3 @@
 </p>
 
 ⭐ Thanks for visiting my profile!
-
-
-<!-- 
-# 💫About Me :
-dsada
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Mohamedismaell&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mohamedismaell&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedismaell&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=Mohamedismaell&icon=0&color=0)](https://visitcount.itsvg.in)  -->
