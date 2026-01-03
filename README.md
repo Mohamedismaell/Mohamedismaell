@@ -14,10 +14,10 @@
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 -  Flutter developer with **1 year of hands-on experience** </br>
--  4th year Computer Science student
--  Interested in modern UI / UX & clean design
--  Learn by building real projects
--  Goal: become a professional Flutter developer
+-  4th year Computer Science student </br>
+-  Interested in modern UI / UX & clean design </br>
+-  Learn by building real projects </br>
+-  Goal: become a professional Flutter developer 
 
 ---
 
