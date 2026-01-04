@@ -76,9 +76,16 @@
 </p> -->
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohamedismaell&theme=tokyonight"/>
-   <img src="https://streak-stats.demolab.com?user=Mohamedismaell&theme=tokyonight&hide_border=true"/>
- </p>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohamedismaell&theme=tokyonight"
+    height="170"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=Mohamedismaell&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+</p>
+
 
 
 ## ✍️ Dev Quote
