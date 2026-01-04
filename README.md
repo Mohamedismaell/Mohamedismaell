@@ -72,19 +72,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mohamedismaell&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-  /> -->
-  <img
-    src="https://streak-stats.demolab.com?user=Mohamedismaell&theme=tokyonight&hide_border=true"
-    height="170"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohamedismaell&theme=tokyonight"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mohamedismaell&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=Mohamedismaell&theme=tokyonight&hide_border=true&background=00000000&cache_seconds=1800" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohamedismaell&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mohamedismaell&theme=tokyonight"/>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mohamedismaell&theme=tokyonight&hide_border=true"/>
+</p>
+
 
 ## ✍️ Dev Quote
 
