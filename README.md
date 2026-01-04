@@ -33,6 +33,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1000&color=4F9CF9&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart;Firebase+%26+Supabase;REST+APIs;Python+%26+C%2B%2B;Clean+UI+%26+Responsive+Design" />
 </p>
+## 🐍 Contribution Activity
+
+![snake animation](https://github.com/Mohamedismaell/Mohamedismaell/blob/output/github-contribution-grid-snake.svg)
 
 
 
