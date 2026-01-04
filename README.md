@@ -81,10 +81,10 @@
     height="170"
   />
 </p>
-
-
-<img src="https://streak-stats.demolab.com?user=Mohamedismaell&theme=tokyonight&hide_border=true&background=00000000&cache_seconds=1800" />
-
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mohamedismaell&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Mohamedismaell&theme=tokyonight&hide_border=true&background=00000000&cache_seconds=1800" height="170"/>
+</p>
 
 ## ✍️ Dev Quote
 
