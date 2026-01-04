@@ -72,20 +72,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
+  <!-- <img
     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mohamedismaell&show_icons=true&theme=tokyonight&hide_border=true"
     height="170"
-  />
+  /> -->
   <img
     src="https://streak-stats.demolab.com?user=Mohamedismaell&theme=tokyonight&hide_border=true"
     height="170"
   />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mohamedismaell&layout=compact&theme=tokyonight&hide_border=true"
-  />
+  /> -->
 </p>
 
 
