@@ -63,7 +63,7 @@
   <table>
     <thead>
       <tr>
-        <th>Light</th>
+        <th>Favorite Places App</th><th>News App</th><th>Quiz App</th>
       </tr>
     </thead>
     <tbody>
