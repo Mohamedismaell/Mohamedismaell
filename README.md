@@ -47,9 +47,9 @@
 ## 📊 video
 
 <p align="center">
-  <img src="assets/favorite_places.gif" width="300"/>
-  <img src="assets/news_app.gif" width="300"/>
-  <img src="assets/quiz.gif" width="300"/>
+  <img src="assets/favorite_places.gif" width="270"/>
+  <img src="assets/news_app.gif" width="270"/>
+  <img src="assets/quiz.gif" width="270"/>
 </p>
 
 
