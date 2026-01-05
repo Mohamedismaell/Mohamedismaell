@@ -44,11 +44,10 @@
   </a>
 </p>
 
-## 📊 video
+## 🎬 App Demos
 
 <p align="center">
   <img src="assets/favorite_places.gif" width="270"/>
-  <p></p>
   <img src="assets/news_app.gif" width="270"/>
   <img src="assets/quiz.gif" width="270"/>
 </p>
