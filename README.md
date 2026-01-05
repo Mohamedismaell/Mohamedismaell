@@ -45,7 +45,9 @@
 </p>
 
 <p align="center">
-  <img src="assets/app-demo.gif" width="350"/>
+<img src="assets/app-demo.gif/favorite_places.gif" width="350"/> 
+<img src="assets/app-demo.gif/news_app.gif" width="350"/> 
+<img src="assets/app-demo.gif/quiz.gif" width="350"/>
 </p>
 
 ---
