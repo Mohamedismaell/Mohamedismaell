@@ -45,10 +45,11 @@
 </p>
 ## 📊 video
 <p align="center">
-<img src="assets/app-demo.gif/favorite_places.gif" width="350"/> 
-<img src="assets/app-demo.gif/news_app.gif" width="350"/> 
-<img src="assets/app-demo.gif/quiz.gif" width="350"/>
+  <img src="assets/favorite_places.gif" width="300"/>
+  <img src="assets/news_app.gif" width="300"/>
+  <img src="assets/quiz.gif" width="300"/>
 </p>
+
 
 ---
 ## 📊 GitHub Stats
