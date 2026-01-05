@@ -59,17 +59,17 @@
 ## 🎬 App Demos
 
 <p align="center">
-  <img src="assets/favorite_places.gif" width="260"/><br/>
+  <img src="assets/favorite_places.gif" width="260"/>
   <b>Favorite Places App</b>
 </p>
 
 <p align="center">
-  <img src="assets/news_app.gif" width="260"/><br/>
+  <img src="assets/news_app.gif" width="260"/>
   <b>News App</b>
 </p>
 
 <p align="center">
-  <img src="assets/quiz.gif" width="260"/><br/>
+  <img src="assets/quiz.gif" width="260"/>
   <b>Quiz App</b>
 </p>
 
