@@ -43,10 +43,13 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
-
+## 📊 video
 <p align="center">
-  <img src="assets/app-demo.gif" width="350"/>
+  <img src="assets/favorite_places.gif" width="300"/>
+  <img src="assets/news_app.gif" width="300"/>
+  <img src="assets/quiz.gif" width="300"/>
 </p>
+
 
 ---
 ## 📊 GitHub Stats
