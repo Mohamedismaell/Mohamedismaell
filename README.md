@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hi+I%27m+Mohamed+Ismael+|+Flutter+Dev&animation=waving&color=gradient&height=120"/>
+</p>
+
 <!-- HEADER CARD -->
 <p align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=800&color=4F9CF9&center=true&vCenter=true&width=600&lines=Flutter+Developer;Computer+Science+Student;Building+Mobile+Apps" />
