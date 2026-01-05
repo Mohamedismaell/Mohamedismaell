@@ -68,9 +68,9 @@
     </thead>
     <tbody>
       <tr>
-        <td><img src="assets/favorite_places.gif" width="260" style="max-width: 100%;"></td>
-        <td><img src="assets/news_app.gif" width="260" style="max-width: 100%;"></td>
-        <td><img src="assets/quiz.gif" width="260" style="max-width: 100%;"></td>
+        <td><img src="assets/favorite_places.gif" width="250" style="max-width: 100%;"></td>
+        <td><img src="assets/news_app.gif" width="250" style="max-width: 100%;"></td>
+        <td><img src="assets/quiz.gif" width="250" style="max-width: 100%;"></td>
       </tr>
     </tbody>
   </table>
