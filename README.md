@@ -12,6 +12,15 @@
   📍 Egypt
 </p>
 
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,vscode,androidstudio,python,cpp&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1000&color=4F9CF9&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart;Firebase+%26+Supabase;REST+APIs;Python+%26+C%2B%2B;Clean+UI+%26+Responsive+Design" />
+</p>
 ---
 
 ## 🧑‍💻 About Me 
@@ -51,10 +60,20 @@
 ## 🎬 App Demos
 
 <p align="center">
-  <img src="assets/favorite_places.gif" width="270"/>
-  <img src="assets/news_app.gif" width="270"/>
-  <img src="assets/quiz.gif" width="270"/>
+  <img src="assets/favorite_places.gif" width="260"/><br/>
+  <b>Favorite Places App</b>
 </p>
+
+<p align="center">
+  <img src="assets/news_app.gif" width="260"/><br/>
+  <b>News App</b>
+</p>
+
+<p align="center">
+  <img src="assets/quiz.gif" width="260"/><br/>
+  <b>Quiz App</b>
+</p>
+
 
 
 ---
