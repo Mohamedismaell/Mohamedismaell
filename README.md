@@ -44,6 +44,9 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="assets/app-demo.gif" width="350"/>
+</p>
 
 ---
 ## 📊 GitHub Stats
