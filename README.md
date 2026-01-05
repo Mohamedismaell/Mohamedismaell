@@ -58,20 +58,25 @@
 
 ## 🎬 App Demos
 
-<markdown-accessiblity-table data-catalyst=""><table>
-<thead>
-<tr>
-<th>Light</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td> <img src="assets/favorite_places.gif" width="260" style="max-width: 100%;"></td>
-   <td><img src="assets/news_app.gif" width="260" style="max-width: 100%;"></td>
-   <td><img src="assets/quiz.gif" width="260" style="max-width: 100%;"></td>
-</tr>   
-</tbody>
-</table></markdown-accessiblity-table>
+<div align="center">
+
+  <table>
+    <thead>
+      <tr>
+        <th>Light</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><img src="assets/favorite_places.gif" width="260" style="max-width: 100%;"></td>
+        <td><img src="assets/news_app.gif" width="260" style="max-width: 100%;"></td>
+        <td><img src="assets/quiz.gif" width="260" style="max-width: 100%;"></td>
+      </tr>
+    </tbody>
+  </table>
+
+</div>
+
 <!-- <p align="center">
   <img src="assets/favorite_places.gif" width="260"/>
   <b>Favorite Places App</b>
