@@ -1,6 +1,6 @@
 <!-- HEADER CARD -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=800&color=4F9CF9&center=true&vCenter=true&width=600&lines=Flutter+Developer;Computer+Science+Student;Building+Mobile+Apps" />
+ 👋<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=800&color=4F9CF9&center=true&vCenter=true&width=600&lines=Flutter+Developer;Computer+Science+Student;Building+Mobile+Apps" />
 </p>
 
 <p align="center">
