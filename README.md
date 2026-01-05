@@ -1,16 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi+I%27m+Mohamed+Ismael+|+Flutter+Dev&animation=waving&color=gradient&height=120"/>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=800&color=4F9CF9&center=true&vCenter=true&width=500&lines=Mobile+Developer;+UI+Lover;+Problem+Solver;" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohamedismaell&theme=tokyonight" width="400"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohamedismaell&theme=tokyonight" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohamedismaell&theme=tokyonight&hide_border=true" width="650"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 </p>
 
 <!-- HEADER CARD -->
