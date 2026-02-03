@@ -32,9 +32,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,vscode,androidstudio,python,cpp&theme=dark" />
-</p>
 
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1000&color=4F9CF9&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart;Firebase+%26+Supabase;REST+APIs;Python+%26+C%2B%2B;Clean+UI+%26+Responsive+Design" />
 </p>
 
@@ -93,20 +91,12 @@
 </p> -->
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Mohamedismaell&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&ring_color=7aa2f7&curr_streak_num_color=7aa2f7" 
-    alt="GitHub Stats" 
-    height="165" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedismaell&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" 
-    alt="Top Languages" 
-    height="175" 
-  />
+  <!-- <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="170"/> -->
+  <img src="profile-summary-card-output/tokyonight/3-stats.svg" height="170"/>
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" height="170"/>
 </p>
 
 
