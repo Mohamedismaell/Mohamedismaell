@@ -95,8 +95,8 @@
 
 <p align="center">
   <!-- <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="170"/> -->
-  <img src="profile-summary-card-output/tokyonight/3-stats.svg" height="170" />
-  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" height="170" width='600'/>
+  <img src="profile-summary-card-output/tokyonight/3-stats.svg"  height='155'  />
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg"  width='550'/>
 </p>
 
 
