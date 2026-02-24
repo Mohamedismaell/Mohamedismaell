@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <b>Flutter Developer</b> · <b>4th Year Computer Science Student</b> <br/>
+  <b>Software Engineer & Mobile Developer </b> · <b>4th Year Computer Science Student</b> <br/>
   📍 Egypt
 </p>
 
@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me 
 
-<a href="https://mohamedismaell.github.io/portfolio/">
+<a href="https://portfolio-swart-six-44.vercel.app/en">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -54,26 +54,13 @@
 
 ---
 
-## 🎬 App Demos
+## 🎬 Live App Demos
+<p align="center">
+  <img src="assets/favorite_places.gif" width="250" style="max-width: 100%;">
+  <img src="assets/news_app.gif" width="250" style="max-width: 100%;">
+  <img src="assets/quiz.gif" width="250" style="max-width: 100%;">
+</p>
 
-<div align="center">
-
-  <table>
-    <thead>
-      <tr>
-        <th>Favorite Places App</th><th>News App</th><th>Quiz App</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><img src="assets/favorite_places.gif" width="250" style="max-width: 100%;"></td>
-        <td><img src="assets/news_app.gif" width="250" style="max-width: 100%;"></td>
-        <td><img src="assets/quiz.gif" width="250" style="max-width: 100%;"></td>
-      </tr>
-    </tbody>
-  </table>
-
-</div>
 
 <!-- <p align="center">
   <img src="assets/favorite_places.gif" width="260"/>
