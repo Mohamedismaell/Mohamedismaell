@@ -51,15 +51,15 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
-
 ---
 
-## 🎬 Live App Demos
-<p align="center">
+
+<!-- ## 🎬 Live App Demos -->
+<!-- <p align="center">
   <img src="assets/favorite_places.gif" width="250" style="max-width: 100%;">
   <img src="assets/news_app.gif" width="250" style="max-width: 100%;">
   <img src="assets/quiz.gif" width="250" style="max-width: 100%;">
-</p>
+</p> -->
 
 
 <!-- <p align="center">
