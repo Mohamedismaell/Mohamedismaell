@@ -36,10 +36,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1000&color=4F9CF9&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart;Firebase+%26+Supabase;REST+APIs;Python+%26+C%2B%2B;Clean+UI+%26+Responsive+Design" />
 </p>
 
----
-
-
----
 
 
 <!-- ## 🎬 Live App Demos -->
@@ -66,6 +62,7 @@
 </p> -->
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -73,6 +70,9 @@
   <img src="profile-summary-card-output/tokyonight/3-stats.svg"  height='155'  />
   <img src="profile-summary-card-output/tokyonight/0-profile-details.svg"  width='550'/>
 </p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -86,7 +86,6 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
-
 
 ---
 
