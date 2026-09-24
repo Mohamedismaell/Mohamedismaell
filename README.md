@@ -38,19 +38,7 @@
 
 ---
 
-## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-ismail-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mohamed.ismael.dev@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://discord.gg/3smail">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</p>
 ---
 
 
@@ -85,7 +73,19 @@
   <img src="profile-summary-card-output/tokyonight/3-stats.svg"  height='155'  />
   <img src="profile-summary-card-output/tokyonight/0-profile-details.svg"  width='550'/>
 </p>
+## 🌐 Connect With Me
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-ismail-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mohamed.ismael.dev@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/3smail">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
 
 
 ---
